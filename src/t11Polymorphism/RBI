@@ -1,0 +1,10 @@
+package t11Polymorphism
+
+interface RBI{
+public abstract void BankLoan();
+public abstract void HomeLoan();
+public abstract void VehicleLoan();
+
+
+
+}
